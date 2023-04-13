@@ -10,7 +10,7 @@
 1. 코드를 업로드 하기 전에는 터미널에서 `git pull origin main`을 실행한 후 PR을 한다.
 2. 폴더 최상단에 위치한 README.md와 .gitignore은 수정하지 않는다.
 
-## ✅ commit 규칙
+## ✅ commit rule
 * commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린 시간
 * description: 문제 주소 (option)
 * 터미널에서 작성법:
