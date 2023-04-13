@@ -1,5 +1,4 @@
 # Algorithm
-# Algorithm
 
 > Dongguk Univ. && Dongduk W Univ. 학생들의 알고리즘 스터디 그룹입니다.
 > git을 활용한 알고리즘 스터디를 진행한 타 스터디의 방식을 참고, 채택하였습니다.
